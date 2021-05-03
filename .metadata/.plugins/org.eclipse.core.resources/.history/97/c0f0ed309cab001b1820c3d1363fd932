@@ -1,0 +1,11 @@
+package EjerciciosGit;
+
+public class HolaMundo {
+
+	public void saludo () {
+		
+		System.out.println("Hola Mundo");
+		
+	}
+
+}

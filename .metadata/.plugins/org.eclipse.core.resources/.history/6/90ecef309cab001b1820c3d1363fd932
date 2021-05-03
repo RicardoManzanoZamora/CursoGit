@@ -1,0 +1,16 @@
+package EjerciciosGit;
+
+public class Herencia extends HolaMundo{
+	
+	
+	
+	public static void main(String[] args) {
+		
+		Herencia obj;
+	
+		System.out.printl( obj.saludo() + " y ricardo");
+		
+		
+	}
+
+}
